@@ -7,6 +7,21 @@
   I am a passionate student who is always willing to learn and work on all technologies. 
   I love exploring new technologies and trying to solve real-life problems 🚀. 
   Apart from that, I also love listening to music🎵 and playing handball🤾. 
-  I am currently in Full Stack development 🕸️ and working on 
+  I am currently woriking as a Full Stack developer 🕸️ at
   <a href="https://grava.io" target="_blank" rel="noopener noreferrer">Grava.io</a>.
 </p>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<br>
+<p align="center">
+
+```json
+{
+  "language": ["javascript", "java", "typescript", "go "],
+  "frontend": ["react", "next", "css"],
+  "backend": ["node", "express", "nest"],
+  "testing": ["jest", "mocha", ¨junit"],
+  "database": ["mysql", "mongodb", "postgresql", "mariadb"],
+  "devOps": ["docker", "github-actions"],
+}
+```
