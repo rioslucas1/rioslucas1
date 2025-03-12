@@ -19,7 +19,7 @@
 {
   "language": ["javascript", "java", "typescript", "go"],
   "frontend": ["react", "next", "css", "sass","php"],
-  "backend": ["node", "express", "nest","spring"],
+  "backend": ["node", "express", "go","spring"],
   "testing": ["jest", "mocha", "junit", "postman"],
   "database": ["mysql", "mongodb", "postgresql", "mariadb"],
   "devOps": ["docker", "github-actions", "git"]
