@@ -11,14 +11,23 @@ In my professional development experience, I participate in the construction of 
 <br>
 <p align="center">
 
-```json
-{
-  "backend": ["go", "node.js", "java", "gine", "spring"],
-  "frontend": ["react", "next.js", "css"],
-  "testing": ["jest", "mocha", "junit", "hoppscotch"],
-  "database": ["postgresql", "couchdb", "valkey", "mysql", "mongodb"],
-  "devOps": ["docker", "github-actions", "cloud-enviroments", "cloud-deploys"]
-  "SO": ["linux", "windows"]
+```go
+type TechStack struct {
+    Backend          []string
+    Frontend         []string
+    Testing          []string
+    Database         []string
+    DevOps           []string
+    OperatingSystems []string
+}
+
+var myStack = TechStack{
+    Backend:   []string{"go", "node.js", "java", "gine", "spring"},
+    Frontend:  []string{"react", "next.js", "css"},
+    Testing:   []string{"jest", "mocha", "junit", "hoppscotch"},
+    Database:  []string{"postgresql", "couchdb", "valkey", "mysql", "mongodb"},
+    DevOps:    []string{"docker", "github-actions", "cloud-enviroments", "cloud-deploys"},
+    OperatingSystems: []string{"linux", "windows"},
 }
 ```
 
