@@ -1,11 +1,9 @@
 
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
- I'm Lucas, I'm a second-year student of web development technology at the National University of La Matanza🎓. 
-  I am a passionate student who is always willing to learn and work on all technologies. 
-  I love exploring new technologies and trying to solve real-life problems 🚀. 
-  Apart from that, I also love listening to music🎵 and playing handball🤾. 
-  I am currently woriking as a Full Stack developer 🕸️ at
+Hello, I'm Lucas, a Junior Backend Developer passionate about creating robust and optimized solutions. I am in my final year of university studies in Software Development at the National University of La Matanza.
+In my professional development experience, I participate in the construction of API REST and optimization of microservices using technologies such as Go and Node.js.
+ I am currently working as a software developer in 
   <a href="https://grava.io" target="_blank" rel="noopener noreferrer">Grava.io</a>.
 </p>
 
@@ -15,13 +13,12 @@
 
 ```json
 {
-  "language": ["javascript", "java", "typescript", "go"],
-  "frontend": ["react", "next", "css", "sass","php"],
-  "backend": ["node", "express","spring"],
-  "testing": ["jest", "mocha", "junit", "postman"],
-  "database": ["mysql", "mongodb", "postgresql", "mariadb"],
-  "devOps": ["docker", "github-actions", "git"]
-  "SO": ["windows","ubuntu"]
+  "backend": ["go", "node.js", "java", "gine", "spring"],
+  "frontend": ["react", "next.js", "css"],
+  "testing": ["jest", "mocha", "junit", "hoppscotch"],
+  "database": ["postgresql", "couchdb", "valkey", "mysql", "mongodb"],
+  "devOps": ["docker", "github-actions", "cloud-enviroments", "cloud-deploys"]
+  "SO": ["linux", "windows"]
 }
 ```
 
