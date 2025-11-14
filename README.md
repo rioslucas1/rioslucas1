@@ -22,7 +22,7 @@ type TechStack struct {
 }
 
 var myStack = TechStack{
-    Backend:   []string{"go", "node.js", "java", "gine", "spring"},
+    Backend:   []string{"go", "node.js", "java", "gin", "spring"},
     Frontend:  []string{"react", "next.js", "css"},
     Testing:   []string{"jest", "mocha", "junit", "hoppscotch"},
     Database:  []string{"postgresql", "couchdb", "valkey", "mysql", "mongodb"},
