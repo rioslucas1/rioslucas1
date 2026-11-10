@@ -4,7 +4,7 @@
 Hello, I'm Lucas, a Junior Backend Developer passionate about creating robust and optimized solutions. I am in my final year of university studies in Software Development at the National University of La Matanza.
 In my professional development experience, I participate in the construction of API REST and optimization of microservices using technologies such as Go and Node.js.
  I am currently working as a software developer in 
-  <a href="https://grava.io" target="_blank" rel="noopener noreferrer">Grava.io</a>.
+  <a target="_blank" rel="noopener noreferrer">Mercado Libre 💛</a>.
 </p>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
